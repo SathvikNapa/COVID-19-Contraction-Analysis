@@ -19,4 +19,4 @@ THE ANALYSIS Focuses on the following:
   
   Weighted Death Rate Calculation
   
-  New Cases/Day for each province
+  New Cases/Day for each province and country
