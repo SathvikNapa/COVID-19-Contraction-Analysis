@@ -10,8 +10,13 @@ THE ANALYSIS Focuses on the following:
 -------------------------------------
 
   World Wide Data Analysis
+  
   Country Wide Data Analysis
+  
   Province-wise Data Analysis
+  
   Death Rate Calculation
+  
   Weighted Death Rate Calculation
+  
   New Cases/Day for each province
