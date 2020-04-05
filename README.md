@@ -26,16 +26,20 @@ Functions Included in the Analysis:
 
 ***Analysis by Country***
 **analysis_by_country(w3_df,country)**
+
 *Pass the arguments dataframe and country name to get the time series analysis by country*
 
 ***Province-wise Death Ratio and Confirmed vs Fatalities***
 **province_wise_deathratio(w3_df,country)**
+
 *Pass the arguments dataframe and country name to get the Province-wise Death ratio and Confirmed Cases against Fatalities metrics*
 
 ***Rise in Cases as well as Fatality per day by Province***
 **Rise_in_Cases(w3_df,country,province)**
+
 *Pass the arguments dataframe, country name and province name to get the Province-wise increse in Confirmed Cases each day and Province-wise increse in Fatalities each day*
 
 ***Rise in Cases as well as Fatality per day by country***
 **Rise_in_Cases_country(w3_df,country)**
+
 *Pass the arguments dataframe and country name to get the country-wide increse in Confirmed Cases each day and country-wide increse in Fatalities each day*
