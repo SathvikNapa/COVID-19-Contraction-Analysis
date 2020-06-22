@@ -1,10 +1,9 @@
 CORONA Pandemic - Analysis
 --------------------------
 
-This analysis deals with Time Series Data of all the countries, Provinces affected by Corona Pandemic.
+This project deals with the statistical analysis of the contraction of the widespread Corona Virus as pf dated April 04, 2020
 
-The Confirmed Cases as well as the Fatality has been recorded.
-
+Data observed in this project is a time-series data of all the countries, Provinces affected by Corona Pandemic.
 
 THE ANALYSIS Focuses on the following:
 -------------------------------------
